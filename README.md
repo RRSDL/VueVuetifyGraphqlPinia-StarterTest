@@ -1,0 +1,2 @@
+# VueVuetifyGraphqlPinia-StarterTest
+Test
